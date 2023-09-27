@@ -21,10 +21,12 @@ their phones.
 
 I did the photography as well (except for a few exceptions) 
 
-The site so far has increased the owner's online presence, it has reduced costs(he no longer has to make menus), I made him his own Github so he can 
-change the prices whenever he wants. I made him a little instructions sheet as well. 
+The site so far has increased the owner's online presence, it has reduced costs(he no longer has to make menus), I made him his own Github so he can change the prices whenever he wants. I made him a little instructions sheet as well. 
 
 HTML and CSS are the main technologies with a little JS for the behavioral side. 
+
+
+
 
 
 
