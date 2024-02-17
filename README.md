@@ -1,6 +1,6 @@
 # NostosResto-MyFirstClient
 This is the e-menu and site for the restaurant NOSTOS
-https://restaurantnostos.com/
+https://github.com/0badaE/NostosResto-MySecondClient
 
 This is my first ever client! 
 I had the opportunity to work with a local restaurant(NOSTOS) here in Montreal!
