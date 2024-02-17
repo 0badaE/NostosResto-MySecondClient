@@ -1,6 +1,6 @@
 # NostosResto-MyFirstClient
 This is the e-menu and site for the restaurant NOSTOS
-https://github.com/0badaE/NostosResto-MySecondClient
+https://celebrated-snickerdoodle-5c2873.netlify.app/
 
 This is my first ever client! 
 I had the opportunity to work with a local restaurant(NOSTOS) here in Montreal!
